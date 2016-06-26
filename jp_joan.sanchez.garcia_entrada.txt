@@ -1,0 +1,328 @@
+afegir text "."
+autor "."
+. hola que tal.
+****
+
+triar text {hola}
+
+info ?
+
+contingut ?
+
+substituir "." per "hola"
+
+info ?
+
+contingut ?
+
+textos autor "." ?
+
+textos autor "hola" ?
+
+afegir text "Dozens killed in bombing of national hospital in Idlib "
+autor "Kareem Shaheen"
+At least two dozen people including several children have been killed in northern Syria in the latest apparent attack by forces loyal to the Bashar al-Assad regime on medical facilities in opposition-held areas, UN officials and activists have said.
+
+The bombing of the national hospital and its surroundings in Idlib city, a provincial capital wrested from regime control last year, was the latest incident in a systematic aerial campaign against medical personnel and facilities that has gone unpunished despite its intensification over the last year and a half.
+****
+
+afegir text "obras de Sheakspeare"
+autor "yo"
+FERDINAND
+
+    Let fame, that all hunt after in their lives,
+    Live register'd upon our brazen tombs
+    And then grace us in the disgrace of death;
+    When, spite of cormorant devouring Time,
+    The endeavor of this present breath may buy
+    That honour which shall bate his scythe's keen edge
+    And make us heirs of all eternity.
+    Therefore, brave conquerors,--for so you are,
+    That war against your own affections
+    And the huge army of the world's desires,--
+    Our late edict shall strongly stand in force:
+    Navarre shall be the wonder of the world;
+    Our court shall be a little Academe,
+    Still and contemplative in living art.
+    You three, Biron, Dumain, and Longaville,
+    Have sworn for three years' term to live with me
+    My fellow-scholars, and to keep those statutes
+    That are recorded in this schedule here:
+    Your oaths are pass'd; and now subscribe your names,
+    That his own hand may strike his honour down
+    That violates the smallest branch herein:
+    If you are arm'd to do as sworn to do,
+    Subscribe to your deep oaths, and keep it too.
+
+LONGAVILLE
+
+    I am resolved; 'tis but a three years' fast:
+    The mind shall banquet, though the body pine:
+    Fat paunches have lean pates, and dainty bits
+    Make rich the ribs, but bankrupt quite the wits.
+
+DUMAIN
+
+    My loving lord, Dumain is mortified:
+    The grosser manner of these world's delights
+    He throws upon the gross world's baser slaves:
+    To love, to wealth, to pomp, I pine and die;
+    With all these living in philosophy.
+
+BIRON
+
+    I can but say their protestation over;
+    So much, dear liege, I have already sworn,
+    That is, to live and study here three years.
+    But there are other strict observances;
+    As, not to see a woman in that term,
+    Which I hope well is not enrolled there;
+    And one day in a week to touch no food
+    And but one meal on every day beside,
+    The which I hope is not enrolled there;
+    And then, to sleep but three hours in the night,
+    And not be seen to wink of all the day--
+    When I was wont to think no harm all night
+    And make a dark night too of half the day--
+    Which I hope well is not enrolled there:
+    O, these are barren tasks, too hard to keep,
+    Not to see ladies, study, fast, not sleep!
+
+FERDINAND
+
+    Your oath is pass'd to pass away from these.
+
+BIRON
+
+    Let me say no, my liege, an if you please:
+    I only swore to study with your grace
+    And stay here in your court for three years' space.
+
+LONGAVILLE
+
+    You swore to that, Biron, and to the rest.
+
+BIRON
+
+    By yea and nay, sir, then I swore in jest.
+    What is the end of study? let me know.
+
+FERDINAND
+
+    Why, that to know, which else we should not know.
+
+BIRON
+
+    Things hid and barr'd, you mean, from common sense?
+
+FERDINAND
+
+    Ay, that is study's godlike recompense.
+
+BIRON
+
+    Come on, then; I will swear to study so,
+    To know the thing I am forbid to know:
+    As thus,--to study where I well may dine,
+    When I to feast expressly am forbid;
+    Or study where to meet some mistress fine,
+    When mistresses from common sense are hid;
+    Or, having sworn too hard a keeping oath,
+    Study to break it and not break my troth.
+    If study's gain be thus and this be so,
+    Study knows that which yet it doth not know:
+    Swear me to this, and I will ne'er say no.
+
+FERDINAND
+
+    These be the stops that hinder study quite
+    And train our intellects to vain delight.
+
+BIRON
+
+    Why, all delights are vain; but that most vain,
+    Which with pain purchased doth inherit pain:
+    As, painfully to pore upon a book
+    To seek the light of truth; while truth the while
+    Doth falsely blind the eyesight of his look:
+    Light seeking light doth light of light beguile:
+    So, ere you find where light in darkness lies,
+    Your light grows dark by losing of your eyes.
+    Study me how to please the eye indeed
+    By fixing it upon a fairer eye,
+    Who dazzling so, that eye shall be his heed
+    And give him light that it was blinded by.
+    Study is like the heaven's glorious sun
+    That will not be deep-search'd with saucy looks:
+    Small have continual plodders ever won
+    Save base authority from others' books
+    These earthly godfathers of heaven's lights
+    That give a name to every fixed star
+    Have no more profit of their shining nights
+    Than those that walk and wot not what they are.
+    Too much to know is to know nought but fame;
+    And every godfather can give a name.
+
+FERDINAND
+
+    How well he's read, to reason against reading!
+
+DUMAIN
+
+    Proceeded well, to stop all good proceeding!
+
+LONGAVILLE
+
+    He weeds the corn and still lets grow the weeding.
+
+BIRON
+
+    The spring is near when green geese are a-breeding.
+
+DUMAIN
+
+    How follows that?
+
+BIRON
+
+    Fit in his place and time.
+
+DUMAIN
+
+    In reason nothing.
+
+BIRON
+
+    Something then in rhyme.
+
+FERDINAND
+
+    Biron is like an envious sneaping frost,
+    That bites the first-born infants of the spring.
+
+BIRON
+
+    Well, say I am; why should proud summer boast
+    Before the birds have any cause to sing?
+    Why should I joy in any abortive birth?
+    At Christmas I no more desire a rose
+    Than wish a snow in May's new-fangled mirth;
+    But like of each thing that in season grows.
+    So you, to study now it is too late,
+    Climb o'er the house to unlock the little gate.
+
+FERDINAND
+
+    Well, sit you out: go home, Biron: adieu.
+
+BIRON
+
+    No, my good lord; I have sworn to stay with you:
+    And though I have for barbarism spoke more
+    Than for that angel knowledge you can say,
+    Yet confident I'll keep what I have swore
+    And bide the penance of each three years' day.
+    Give me the paper; let me read the same;
+    And to the strict'st decrees I'll write my name.
+
+FERDINAND
+
+    How well this yielding rescues thee from shame!
+
+BIRON
+
+    [Reads] 'Item, That no woman shall come within a
+    mile of my court:' Hath this been proclaimed?
+
+LONGAVILLE
+
+    Four days ago.
+
+BIRON
+
+    Let's see the penalty.
+
+    Reads
+    'On pain of losing her tongue.' Who devised this penalty?
+
+LONGAVILLE
+
+    Marry, that did I.
+
+BIRON
+
+    Sweet lord, and why?
+
+LONGAVILLE
+
+    To fright them hence with that dread penalty.
+****
+
+tots textos ?
+
+tots autors ?
+
+triar text {  Sheakspeare    youk}
+
+triar text {       Sheakspeare hence}
+
+taula de frequencies ?
+
+afegir text "Google France's Escape Room Is A Haven For The App Savvy text 2"
+autor "Curtis Silver dif "
+This sounds like an awesome batch of wholesome fun. Reservations are already full, in case you were thinking about joining in the non-threatening excitement. They are going to kick off the game with a bunch of hyper-caffeinated YouTube stars with some interactive elements. Observers can issue challenges, or as the release states: send the players pizza. Because that makes sense when a bunch of people are trapped in a room. I mean, at least no one is handcuffed to a radiator, though that would make it more interesting. Is there an app for that? Do they only get flip phones?
+
+While the game does encourage teamwork, lets be honest here, there can only be one survivor, er, winner. Forget the apps, put a chair through the drywall and walk right on out. That’s how you escape a room. Millennials have no idea that at one time, we had to break things to escape from places, we couldn’t just use apps. Sheesh.
+
+Perhaps the recent raid of Google France was not due to tax evasion but an effort to free the Millennials trapped in the escape room. There is no word as no word to if Google’s play on the escape room trend will make its way to the States. So you’ll have to deal with figuring out how to escape your mundane lives in the erstwhile. (Hint: put a chair through the drywall.)
+****
+
+triar text {like       awesome          going}
+
+triar text {like       awesome          goinged}
+
+triar text {like       awesome          going                      Hint}
+
+triar text {Curtis Silver dif}
+
+info ?
+
+frases 1 2 ?
+
+frases a b ?
+
+frases 0 2 ?
+
+frases -1 0 ?
+
+frases 1 1000 ?
+
+nombre de frases ?
+
+nombre de paraules ?
+
+frases "recent raid" ?
+
+frases "teamwork lets" ?
+
+frases "teamwork, lets" ?
+
+frases "places we" ?
+
+frases "places just" ?
+
+frases "     evasion       but" ?
+
+frases "  no word    " ?
+
+frases "no word" ?
+
+frases (((({out} & {escape}) | ({play} | { winner})) | {Millennials})            & {free}) ?
+
+frases {how to espacads} ?
+
+frases {apps. Sheesh} ?
+
+frases (({word} & {ni idea}) |                                              {mundane}) ?
+
+sortir

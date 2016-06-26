@@ -1,0 +1,604 @@
+afegir text "."
+
+triar text {hola}
+
+info ?
+. "." 2 3
+Cites Associades:
+
+contingut ?
+1 .
+2 hola que tal.
+
+substituir "." per "hola"
+
+info ?
+. "." 2 3
+Cites Associades:
+
+contingut ?
+1 .
+2 hola que tal.
+
+textos autor "." ?
+"."
+
+textos autor "hola" ?
+
+afegir text "Dozens killed in bombing of national hospital in Idlib "
+
+afegir text "obras de Sheakspeare"
+
+tots textos ?
+. "."
+Kareem Shaheen "Dozens killed in bombing of national hospital in Idlib "
+yo "obras de Sheakspeare"
+
+tots autors ?
+. 1 2 3
+Kareem Shaheen 1 2 88
+yo 1 47 1059
+
+triar text {  Sheakspeare    youk}
+error
+
+triar text {       Sheakspeare hence}
+
+taula de frequencies ?
+to 39
+the 34
+I 22
+of 21
+and 18
+in 17
+that 16
+And 15
+BIRON 14
+a 13
+is 13
+not 11
+are 10
+That 10
+you 9
+study 9
+FERDINAND 9
+be 8
+know 8
+me 7
+no 7
+all 7
+but 7
+have 7
+this 7
+light 7
+shall 7
+three 7
+it 6
+his 6
+well 6
+with 6
+your 6
+LONGAVILLE 6
+my 5
+The 5
+say 5
+too 5
+from 5
+then 5
+sworn 5
+To 4
+am 4
+so 4
+for 4
+When 4
+keep 4
+upon 4
+Biron 4
+Study 4
+swore 4
+there 4
+these 4
+which 4
+DUMAIN 4
+years' 4
+As 3
+So 3
+How 3
+Why 3
+can 3
+day 3
+eye 3
+may 3
+see 3
+Than 3
+Your 3
+doth 3
+give 3
+here 3
+hope 3
+like 3
+lord 3
+more 3
+name 3
+pain 3
+vain 3
+will 3
+Which 3
+court 3
+every 3
+night 3
+their 3
+where 3
+should 3
+penalty 3
+world's 3
+enrolled 3
+By 2
+He 2
+If 2
+My 2
+Or 2
+an 2
+by 2
+do 2
+on 2
+us 2
+But 2
+Let 2
+Our 2
+Who 2
+You 2
+any 2
+hid 2
+let 2
+now 2
+one 2
+our 2
+own 2
+was 2
+why 2
+Have 2
+I'll 2
+Well 2
+dark 2
+each 2
+fame 2
+fast 2
+good 2
+hard 2
+late 2
+live 2
+make 2
+much 2
+oath 2
+pine 2
+read 2
+stay 2
+term 2
+thus 2
+what 2
+These 2
+break 2
+day-- 2
+grace 2
+grows 2
+liege 2
+oaths 2
+quite 2
+sense 2
+sleep 2
+thing 2
+those 2
+truth 2
+while 2
+woman 2
+Dumain 2
+common 2
+forbid 2
+honour 2
+little 2
+living 2
+losing 2
+pass'd 2
+please 2
+reason 2
+spring 2
+though 2
+against 2
+study's 2
+delights 2
+heaven's 2
+O 1
+.' 1
+:' 1
+At 1
+Ay 1
+In 1
+No 1
+as 1
+go 1
+if 1
+we 1
+'On 1
+,-- 1
+Fat 1
+Fit 1
+Not 1
+Too 1
+Yet 1
+ago 1
+art 1
+buy 1
+did 1
+die 1
+end 1
+ere 1
+her 1
+him 1
+how 1
+joy 1
+nay 1
+out 1
+sir 1
+sit 1
+sun 1
+war 1
+won 1
+wot 1
+yea 1
+yet 1
+'tis 1
+Come 1
+Doth 1
+Four 1
+Give 1
+Hath 1
+Live 1
+Make 1
+Save 1
+Time 1
+What 1
+With 1
+army 1
+away 1
+base 1
+bate 1
+been 1
+bide 1
+bits 1
+body 1
+book 1
+come 1
+corn 1
+days 1
+dear 1
+deep 1
+dine 1
+down 1
+edge 1
+else 1
+ever 1
+eyes 1
+find 1
+fine 1
+food 1
+gain 1
+gate 1
+grow 1
+half 1
+hand 1
+harm 1
+he's 1
+heed 1
+home 1
+huge 1
+hunt 1
+jest 1
+keen 1
+lean 1
+lets 1
+lies 1
+look 1
+love 1
+meal 1
+mean 1
+meet 1
+mile 1
+mind 1
+most 1
+near 1
+o'er 1
+only 1
+over 1
+pass 1
+pomp 1
+pore 1
+rest 1
+ribs 1
+rich 1
+rose 1
+same 1
+seek 1
+seen 1
+sing 1
+snow 1
+some 1
+star 1
+stop 1
+thee 1
+them 1
+they 1
+time 1
+walk 1
+week 1
+when 1
+wink 1
+wish 1
+wits 1
+wont 1
+'Item 1
+,--to 1
+Climb 1
+Let's 1
+Light 1
+Marry 1
+May's 1
+Reads 1
+Small 1
+Still 1
+Swear 1
+Sweet 1
+adieu 1
+after 1
+angel 1
+arm'd 1
+baser 1
+birds 1
+birth 1
+bites 1
+blind 1
+boast 1
+books 1
+brave 1
+cause 1
+death 1
+dread 1
+edict 1
+feast 1
+fixed 1
+force 1
+frost 1
+geese 1
+green 1
+gross 1
+heirs 1
+hence 1
+hours 1
+house 1
+knows 1
+lives 1
+looks 1
+mirth 1
+names 1
+ne'er 1
+other 1
+paper 1
+pates 1
+place 1
+proud 1
+rhyme 1
+saucy 1
+shame 1
+space 1
+spite 1
+spoke 1
+stand 1
+still 1
+stops 1
+swear 1
+tasks 1
+think 1
+tombs 1
+touch 1
+train 1
+troth 1
+weeds 1
+world 1
+write 1
+years 1
+,--for 1
+Before 1
+Things 1
+barr'd 1
+barren 1
+beside 1
+branch 1
+brazen 1
+breath 1
+dainty 1
+desire 1
+fairer 1
+fixing 1
+fright 1
+having 1
+herein 1
+hinder 1
+indeed 1
+ladies 1
+lights 1
+loving 1
+manner 1
+nights 1
+nought 1
+profit 1
+season 1
+slaves 1
+strict 1
+strike 1
+summer 1
+throws 1
+tongue 1
+unlock 1
+wealth 1
+within 1
+wonder 1
+Academe 1
+Navarre 1
+[Reads] 1
+already 1
+banquet 1
+beguile 1
+blinded 1
+decrees 1
+delight 1
+desires 1
+devised 1
+earthly 1
+envious 1
+falsely 1
+follows 1
+godlike 1
+grosser 1
+infants 1
+inherit 1
+keeping 1
+nothing 1
+others' 1
+penance 1
+present 1
+reading 1
+rescues 1
+seeking 1
+shining 1
+weeding 1
+abortive 1
+bankrupt 1
+darkness 1
+dazzling 1
+disgrace 1
+endeavor 1
+eternity 1
+eyesight 1
+glorious 1
+mistress 1
+paunches 1
+plodders 1
+recorded 1
+resolved 1
+schedule 1
+scythe's 1
+smallest 1
+sneaping 1
+statutes 1
+strongly 1
+violates 1
+yielding 1
+Christmas 1
+Proceeded 1
+Something 1
+Subscribe 1
+Therefore 1
+authority 1
+barbarism 1
+confident 1
+continual 1
+cormorant 1
+devouring 1
+expressly 1
+godfather 1
+knowledge 1
+mortified 1
+painfully 1
+purchased 1
+strict'st 1
+subscribe 1
+Longaville 1
+a-breeding 1
+affections 1
+conquerors 1
+first-born 1
+godfathers 1
+intellects 1
+mistresses 1
+philosophy 1
+proceeding 1
+proclaimed 1
+recompense 1
+register'd 1
+new-fangled 1
+observances 1
+protestation 1
+contemplative 1
+deep-search'd 1
+fellow-scholars 1
+
+afegir text "Google France's Escape Room Is A Haven For The App Savvy text 2"
+
+triar text {like       awesome          going}
+
+triar text {like       awesome          goinged}
+error
+
+triar text {like       awesome          going                      Hint}
+error
+
+triar text {Curtis Silver dif}
+
+info ?
+Curtis Silver dif  "Google France's Escape Room Is A Haven For The App Savvy text 2" 17 233
+Cites Associades:
+
+frases 1 2 ?
+1 This sounds like an awesome batch of wholesome fun.
+2 Reservations are already full, in case you were thinking about joining in the non-threatening excitement.
+
+frases a b ?
+error
+
+frases 0 2 ?
+error
+
+frases -1 0 ?
+error
+
+frases 1 1000 ?
+error
+
+nombre de frases ?
+17
+
+nombre de paraules ?
+233
+
+frases "recent raid" ?
+14 Perhaps the recent raid of Google France was not due to tax evasion but an effort to free the Millennials trapped in the escape room.
+
+frases "teamwork lets" ?
+9 While the game does encourage teamwork, lets be honest here, there can only be one survivor, er, winner.
+
+frases "teamwork, lets" ?
+
+frases "places we" ?
+12 Millennials have no idea that at one time, we had to break things to escape from places, we couldn’t just use apps.
+
+frases "places just" ?
+
+frases "     evasion       but" ?
+14 Perhaps the recent raid of Google France was not due to tax evasion but an effort to free the Millennials trapped in the escape room.
+
+frases "  no word    " ?
+15 There is no word as no word to if Google’s play on the escape room trend will make its way to the States.
+
+frases "no word" ?
+15 There is no word as no word to if Google’s play on the escape room trend will make its way to the States.
+
+frases (((({out} & {escape}) | ({play} | { winner})) | {Millennials})            & {free}) ?
+14 Perhaps the recent raid of Google France was not due to tax evasion but an effort to free the Millennials trapped in the escape room.
+
+frases {how to espacads} ?
+
+frases {apps. Sheesh} ?
+
+frases (({word} & {ni idea}) |                                              {mundane}) ?
+16 So you’ll have to deal with figuring out how to escape your mundane lives in the erstwhile.
+
